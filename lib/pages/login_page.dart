@@ -47,7 +47,7 @@ class LoginPage extends StatelessWidget {
                   ),
                   ElevatedButton(
                     onPressed: () {
-                      print("Hi visitor")
+                      print("Hi visitor");
                     },
                     child: Text("Login"),
                     style: TextButton.styleFrom(),
